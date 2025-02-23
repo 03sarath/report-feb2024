@@ -6,7 +6,6 @@ grade:
   - subject: Math
     grade: Z
   - subject: English
-    grade: X
+    grade: Z
   - subject: Science
     grade: Z+  
-  
